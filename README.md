@@ -1,8 +1,8 @@
-\# Job Portal – Full Stack Application
+# Job Portal – Full Stack Application
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -10,83 +10,83 @@ The Job Portal is a full-stack web application designed to connect job seekers w
 
 
 
-\## Technology Stack
+## Technology Stack
 
 
 
-\### Backend
+### Backend
 
-\- Java 21
+- Java 21
 
-\- Spring Boot
+- Spring Boot
 
-\- Spring Data JPA
+- Spring Data JPA
 
-\- Hibernate
+- Hibernate
 
-\- Spring Security
+- Spring Security
 
-\- REST APIs
+- REST APIs
 
-\- MySQL 8.4
-
-
-
-\### Frontend
-
-\- React.js
-
-\- JavaScript
-
-\- HTML
-
-\- CSS
+- MySQL 8.4
 
 
 
-\### Development and Testing Tools
+### Frontend
+
+- React.js
+
+- JavaScript
+
+- HTML
+
+- CSS
+
+
+
+### Development and Testing Tools
 
 \- IntelliJ IDEA
 
-\- Visual Studio Code
+- Visual Studio Code
 
-\- Git and GitHub
+- Git and GitHub
 
-\- Postman
+- Postman
 
-\- JUnit and Mockito
-
-
-
-\## Main Modules
+- JUnit and Mockito
 
 
 
-1\. User Management
-
-2\. Job Management
-
-3\. Application Management
-
-4\. Notification Management
-
-5\. Search and Recommendation
-
-6\. Admin Dashboard
+## Main Modules
 
 
 
-\## Project Structure
+1. User Management
+
+2. Job Management
+
+3. Application Management
+
+4. Notification Management
+
+5. Search and Recommendation
+
+6. Admin Dashboard
 
 
 
-\- `jobportal-backend/` – Spring Boot backend application.
-
-\- `jobportal-frontend/` – React frontend application.
+## Project Structure
 
 
 
-\## Project Status
+- `jobportal-backend/` – Spring Boot backend application.
+
+- `jobportal-frontend/` – React frontend application.
+
+
+
+## Project Status
 
 
 
