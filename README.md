@@ -46,7 +46,7 @@ The Job Portal is a full-stack web application designed to connect job seekers w
 
 ### Development and Testing Tools
 
-\- IntelliJ IDEA
+- IntelliJ IDEA
 
 - Visual Studio Code
 
@@ -94,7 +94,7 @@ Backend project setup and MySQL connectivity completed. Feature development is i
 
 
 
-\## Author
+## Author
 
 
 
