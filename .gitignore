@@ -1,0 +1,31 @@
+
+# Java compiled files
+*.class
+
+# Maven build output
+target/
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Node.js dependencies and build output
+node_modules/
+dist/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
+# Backup of old backend Git repository
+jobportal-backend/.git-backup/
